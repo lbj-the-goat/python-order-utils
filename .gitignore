@@ -24,6 +24,7 @@ venv/
 
 # files
 .env
+.idea
 *.log
 *.tsbuildinfo
 coverage.json
